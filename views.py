@@ -6,3 +6,4 @@ from home import *
 from pics import *
 from videos import *
 from letter import *
+from semester1 import *
